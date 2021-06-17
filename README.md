@@ -1,6 +1,6 @@
 # 2D Maze
  🎮💡 Game
-
+# Gameplay video: https://youtu.be/yEeEFErKe7k
 WASD - Move
 
 Purple sphere - Gives 1 super hit to destroy 1 obstacle
