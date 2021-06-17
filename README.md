@@ -1,4 +1,4 @@
-# UltimateWorm
+# 2D Maze
  🎮💡 Game
 
 WASD - Move
